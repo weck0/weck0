@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @weck0
-- 👀 I’m interested in React / React-Native
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on React Native projects
+- 👀 I’m a Magento 2 developer
+- 🌱 I’m currently learning React
 - 📫 How to reach me f.ceprika@gmail.com
 
 <!---
